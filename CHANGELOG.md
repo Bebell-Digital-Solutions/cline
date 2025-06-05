@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.18.0
+
+### Minor Changes
+
+-   5b3647f: Prioritize active files in file context menu
+
 ## [3.17.11]
 
 -   Add support for Gemini 2.5 Pro Preview 06-05 model to Vertex AI and Google Gemini providers
